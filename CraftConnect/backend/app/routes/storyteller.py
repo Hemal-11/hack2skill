@@ -1,5 +1,3 @@
-# backend/app/routes/storyteller.py
-
 from fastapi import APIRouter, HTTPException, status, Body
 import logging
 

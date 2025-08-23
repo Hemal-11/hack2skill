@@ -1,4 +1,3 @@
-# backend/scripts/test_index.py
 import faiss
 import pickle
 

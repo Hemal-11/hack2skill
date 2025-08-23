@@ -1,5 +1,3 @@
-# backend/scripts/index_products.py
-
 import asyncio
 import faiss
 import numpy as np

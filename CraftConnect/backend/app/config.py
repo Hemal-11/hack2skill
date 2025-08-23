@@ -1,5 +1,3 @@
-# backend/app/config.py
-
 import pathlib
 from pydantic_settings import BaseSettings, SettingsConfigDict
 

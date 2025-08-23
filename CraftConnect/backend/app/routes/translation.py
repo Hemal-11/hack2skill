@@ -1,5 +1,3 @@
-# backend/app/routes/translation.py
-
 from fastapi import APIRouter, HTTPException, status, Body
 import logging
 

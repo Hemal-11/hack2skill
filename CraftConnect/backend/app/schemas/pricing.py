@@ -1,5 +1,3 @@
-# backend/app/schemas/pricing.py
-
 from pydantic import BaseModel, Field
 
 class PriceSuggestionRequest(BaseModel):

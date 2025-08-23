@@ -1,5 +1,3 @@
-# backend/app/schemas/translation.py
-
 from pydantic import BaseModel, Field
 from typing import Optional
 

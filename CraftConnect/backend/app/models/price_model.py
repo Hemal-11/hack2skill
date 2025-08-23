@@ -1,5 +1,3 @@
-# backend/app/models/price_model.py
-
 import logging
 import math
 from app.cloud_services.firestore_db import db

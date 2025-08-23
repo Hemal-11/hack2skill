@@ -1,5 +1,3 @@
-# backend/app/schemas/recommender.py
-
 from pydantic import BaseModel, Field
 from typing import List
 

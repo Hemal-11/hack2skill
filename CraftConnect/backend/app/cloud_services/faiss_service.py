@@ -1,4 +1,3 @@
-# backend/app/cloud_services/faiss_service.py
 import faiss
 import numpy as np
 import pickle

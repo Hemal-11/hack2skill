@@ -1,4 +1,3 @@
-# backend/app/models/recommender_model.py
 from typing import List
 import logging
 from datetime import datetime, timedelta, timezone

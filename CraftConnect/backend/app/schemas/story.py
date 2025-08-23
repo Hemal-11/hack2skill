@@ -1,5 +1,3 @@
-# backend/app/schemas/story.py
-
 from pydantic import BaseModel, Field
 
 class StoryRequest(BaseModel):

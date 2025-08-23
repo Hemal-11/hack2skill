@@ -1,5 +1,3 @@
-# backend/app/models/embeddings.py
-
 import logging
 import numpy as np
 from typing import List

@@ -1,5 +1,3 @@
-# backend/app/routes/pricing.py
-
 from fastapi import APIRouter, HTTPException, status
 from app.schemas.pricing import PriceSuggestionRequest, PriceSuggestionResponse
 from app.models.price_model import price_suggestion_service

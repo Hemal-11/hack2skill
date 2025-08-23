@@ -1,5 +1,3 @@
-# backend/app/models/vertex_text.py
-
 import logging
 from google.api_core.exceptions import GoogleAPICallError
 from vertexai.generative_models import GenerativeModel, GenerationConfig

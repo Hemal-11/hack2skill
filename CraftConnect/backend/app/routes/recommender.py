@@ -1,5 +1,3 @@
-# backend/app/routes/recommender.py
-
 from fastapi import APIRouter, HTTPException, status
 from app.schemas.recommender import RecommendationResponse, RecommendedProduct
 from app.models.recommender_model import recommender_service
