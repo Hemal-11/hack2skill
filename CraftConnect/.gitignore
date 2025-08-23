@@ -7,6 +7,7 @@ venv/
 .venv/
 ENV/
 env/
+myvenv/ # Added specific venv name
 env.bak/
 
 # Python cache
@@ -36,6 +37,13 @@ build/
 .next/
 out/
 dist/
+
+# ========================
+# CraftConnect Generated Data (NEW SECTION)
+# ========================
+# AI model index files from the recommender script
+index.faiss
+mapping.pkl
 
 # ========================
 # Google Cloud / Secrets
