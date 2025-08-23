@@ -11,6 +11,10 @@ class Settings(BaseSettings):
     PROJECT_ID: str
     GOOGLE_APPLICATION_CREDENTIALS: str
     GEMINI_MODEL: str
+    GEMINI_MODEL_ID: str = "gemini-1.5-flash"
+    EMBEDDING_MODEL_ID: str = "text-embedding-004"
+    TRANSLATION_QA_THRESHOLD: float = 0.85
+    EMBEDDING_REGION: str = "us-central1"
     REGION: str
     FIRESTORE_DB: str
     BUCKET_NAME: str
